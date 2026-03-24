@@ -30,7 +30,7 @@
   - Jest
 
 ✿•✿•✿
-
+```bash
 ## Estrutura
   |_ prompts/
   |    |_prompt-agent.md
