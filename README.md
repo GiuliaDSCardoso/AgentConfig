@@ -4,7 +4,9 @@
 
 ✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿•✿
 
- Criei esse repositório para reunir meus prompts de IA para quatro casos: agent, ask, plan e study. Usarei esses prompts pre-definidos para me ajudar no estudo e realização do BootCamp DIO(Jornada Para o Futuro - Node.js)
+ Criei esse repositório para reunir meus prompts de IA para quatro casos: agent, ask, plan e study.
+ Usarei esses prompts pre-definidos para me ajudar no estudo e realização do BootCamp DIO(Jornada 
+ Para o Futuro - Node.js)
 
 ✿•✿•✿
 
@@ -18,7 +20,8 @@
 ✿•✿•✿
 
 ## Conceito
-  Defino cada agente com uma identidade, objetivo, stack,regras, incluindo também exemplo de respostas
+  Defino cada agente com uma identidade, objetivo, stack,regras, incluindo também exemplo de 
+  respostas
 
 ✿•✿•✿
 
